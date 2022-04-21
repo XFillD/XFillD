@@ -9,6 +9,8 @@ Javascript,
 React,
 Git/Github
 
+Learning: Node.js, React Native, Typescript
+
 <!--
 **XFillD/XFillD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
