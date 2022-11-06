@@ -7,6 +7,8 @@ HTML,
 CSS,
 Javascript,
 React,
+Tailwind,
+Redux,
 Git/Github
 
 Learning: Node.js, React Native, Typescript
